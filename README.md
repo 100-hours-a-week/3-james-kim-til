@@ -1,5 +1,7 @@
 # Today I Learn
 
+### [Oct week5]
+☑️ [25.10.27] TIL - [JWT](https://github.com/100-hours-a-week/3-james-kim-til/blob/0876cd0d9b162b87adee6278a8527f89ec45a044/Oct/%5B25.10.27%5D%20JWT.md)
 
 ### [Oct week4]
 ☑️ [25.10.21] TIL - [TestCode](https://github.com/100-hours-a-week/james-til/blob/87554f7a588ae5b34b767357cecb5583d87e65c9/Oct/%5B25.10.21%5D%20TestCode.md)  
