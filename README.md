@@ -1,5 +1,8 @@
 # Today I Learn
 
+### [Nov week1]
+☑️ [25.11.02] TIL - [JWT 토큰 탈취와 대안](https://github.com/100-hours-a-week/3-james-kim-til/blob/91b493847c8adaef23dc40ecc0d0a221099b04c4/Nov/JWT%20%ED%86%A0%ED%81%B0%20%ED%83%88%EC%B7%A8.md)
+
 ### [Oct week5]
 ☑️ [25.10.29] TIL - [Filter&Interceptor](https://github.com/100-hours-a-week/3-james-kim-til/blob/da9b7cb1c1edf0ac4bcc0a24fe8caed2daac306c/Oct/%5B25.10.29%5D%20Filter%26Interceptor.md)  
 ☑️ [25.10.27] TIL - [JWT](https://github.com/100-hours-a-week/3-james-kim-til/blob/0876cd0d9b162b87adee6278a8527f89ec45a044/Oct/%5B25.10.27%5D%20JWT.md)
