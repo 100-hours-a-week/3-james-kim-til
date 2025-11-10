@@ -1,5 +1,8 @@
 # Today I Learn
 
+### [Nov week2]  
+☑️ [25.11.10] TIL - [AWS 네트워크와 제어](https://github.com/100-hours-a-week/3-james-kim-til/blob/506bbbc1b3803e16cc511c0c9786f30cc376ab1c/Nov/AWS%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%99%80%20%EC%A0%9C%EC%96%B4.md)
+
 ### [Nov week1]
 ☑️ [25.11.04] TIL - [Network Fundamentals](https://github.com/100-hours-a-week/3-james-kim-til/blob/d60dba28410606d10cdaadab7aa3f9bcfa20009a/Nov/Network%20Fundamentals.md)  
 ☑️ [25.11.02] TIL - [JWT 토큰 탈취와 대안](https://github.com/100-hours-a-week/3-james-kim-til/blob/91b493847c8adaef23dc40ecc0d0a221099b04c4/Nov/JWT%20%ED%86%A0%ED%81%B0%20%ED%83%88%EC%B7%A8.md)
